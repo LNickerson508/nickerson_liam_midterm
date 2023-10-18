@@ -1,4 +1,2 @@
 # nickerson_liam_midterm
-Liam and Jasper's repo for the midterm
-WOOOOOOOOOOOOOOOOOOOOOO CONFLICT WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-CONFLICT CONFLICT CONFLICT
+Liam Nickerson and Jasper Fraser's repo for the midterm
